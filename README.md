@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋 <img align="center" src="https://gpvc.arturio.dev/MaximTiberiu" />
 
-<!--
-**MaximTiberiu/MaximTiberiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Tiberiu:
+- 💻 I'm a 3rd year Computers and Information Technology student.
+- 👨‍🏫 I'm Peer Tutor at the University of Bucharest.
+- 🔭 I’m currently working with C/C++, Python and Java.
+- 🌱 I’m currently learning frontend stuff.
+- 💬 Ask me about programming stuff.
+- 📫 How to reach me: https://www.linkedin.com/in/tiberiu-maxim/
+- ⚡ Motivated to learn and grow.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=MaximTiberiu&count_private=true&show_icons=true&theme=vue-dark" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaximTiberiu&layout=compact&theme=vue-dark" />
