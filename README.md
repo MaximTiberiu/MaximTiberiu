@@ -3,8 +3,8 @@
 I'm Tiberiu:
 - 💻 I'm a 3rd year Computers and Information Technology student.
 - 👨‍🏫 I'm Peer Tutor at the University of Bucharest.
-- 🔭 I’m currently working with C/C++, Java, Python.
-- 🌱 I’m currently learning frontend stuff.
+- 🔭 I’m currently working with C/C++, Java and Python.
+- 🌱 I’m currently learning frontend stuff and Spring Framework.
 - 💬 Ask me about programming stuff.
 - 📫 How to reach me: https://www.linkedin.com/in/tiberiu-maxim/
 - ⚡ Motivated to learn and grow.
