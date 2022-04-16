@@ -10,4 +10,4 @@ I'm Tiberiu:
 - ⚡ Motivated to learn and grow.
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=MaximTiberiu&count_private=true&show_icons=true&theme=vue-dark" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaximTiberiu&layout=compact&theme=vue-dark" />
+<!--- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaximTiberiu&layout=compact&theme=vue-dark" /> --->
