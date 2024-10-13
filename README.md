@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-I'm Tibi:
-- 💻 Functional Verification @ AMIQ Consulting.
+I'm Tiberiu:
+- 💻 Verification Engineer @ AMIQ Consulting.
 - 👨‍🏫 Laboratory Assistant @ University of Bucharest.
 - 🏛️ Distributed Systems Grad School student @ University of Bucharest.
 - 💬 Ask me about programming stuff.
